@@ -1,4 +1,3 @@
-![image](https://github.com/WendyEze/Newspaper-Website/assets/161884459/849321bf-d645-40a7-aa33-250f59860fb4 | width=100)
-
+<img width = 100 src="https://cdn.icon-icons.com/icons2/1675/PNG/512/3890941-market-news-newspaper-stock_111181.png">
 # Newspaper-Website
 This displays a newspaper built with HTML and CSS.
