@@ -1,0 +1,150 @@
+#container {
+margin: 10px auto;
+background-color: #fff;
+color: #333;
+border: 1px solid gray;
+font-family: "Georgia", serif;
+}
+
+article{
+    text-align: center;
+    width: 25%;
+    float:left;
+    border-radius: 10px;
+    margin:5px;
+    padding: 23px;
+    padding-top: 10px;
+}
+
+
+#header {
+padding: .4em;
+background-color: #ddd;
+border-bottom: 1px solid gray;
+font-size: 35px;
+}
+
+#details {
+    padding: 6px;
+    color: white;
+    background-color: #222222;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+
+#topsection {
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+
+#header h1
+{
+padding: 10px;
+margin: 0;
+}
+
+.date, .date:hover {
+    font-size: 12px;
+    color: black;
+}
+
+.headline {
+    font-size: 20px;
+}
+
+td{
+    text-align: left;
+    padding: 20px;
+    width: 50%;
+}
+
+.descript, .descript:hover{
+    font-size: 15px;
+    color: gray;
+}
+
+a:visited {
+    color: initial; 
+  }
+
+a:hover {
+    color: lightgray;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.bottomi{
+    padding-bottom: 8px;
+}
+
+/* Left Column CSS */
+
+#leftc {
+float: left;
+width: 160px;
+margin: 0;
+padding: 1em;
+border-right: 1px solid gray;
+height: 1435px;
+}
+
+/* Right Column CSS */
+
+#rightc {
+float: right;
+width: 270px;
+margin: 0;
+padding: 1em;
+border-left: 1px solid gray;
+height: 1435px;
+}
+
+.thumbnail {
+float: left;
+width: 250px;
+margin: 0px 15px 15px 0px;
+padding: 5px;
+text-align: center;
+}
+
+
+.clearboth { clear: both; }
+
+/* Center Column CSS */
+
+#centerc {
+margin-left: 200px;
+margin-right: auto;
+padding: 2em;
+max-width: 42.5em;
+}
+
+.centeri {
+    float: left;
+    width: 300px;
+    margin: 0px -10px -5px -10px;
+    text-align: center;
+    font-size: 12px;
+}
+
+#footer {
+clear: both;
+margin: 0;
+padding: .5em;
+color: #333;
+background-color: #ddd;
+border-top: 1px solid gray;
+}
+
+#leftc p, #rightc p { margin: 0 0 1em 0; }
+#centerc h2 { margin: 0 0 .5em 0; }
